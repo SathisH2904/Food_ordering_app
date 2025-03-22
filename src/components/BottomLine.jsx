@@ -1,5 +1,5 @@
 
-import Playstore from "../image/Google_play.png"
+import Playstore from "../image/Google_Play.png"
 import Appstore from "../image/App_Store.png"
 
 const BottomLine= ()=>{
