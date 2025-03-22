@@ -3,7 +3,7 @@ import { IoSearch } from "react-icons/io5";
 import Card from "./Card.jsx";
 import Shimmer from "./Shimmer.jsx";
 import banner from "../image/pngwing.com.png"
-import Playstore from "../image/Google_play.png"
+import Playstore from "../image/Google_Play.png"
 import Appstore from "../image/App_Store.png"
 import { DiscountCard } from "./Card.jsx";
 
