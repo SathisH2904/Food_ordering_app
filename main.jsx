@@ -1,13 +1,3 @@
-// import { StrictMode } from 'react'
-// import { createRoot } from 'react-dom/client'
-// import './index.css'
-// import App from './App.jsx'
-
-// createRoot(document.getElementById('root')).render(
-//   <StrictMode>
-//     <App />
-//   </StrictMode>,
-// )
 
 import React from "react";
 import ReactDom from "react-dom/client";
@@ -20,7 +10,7 @@ import RestaurantMenu from "./src/components/RestaurantMenu.jsx";
 import Error from "./src/components/Error.jsx";
 import Cart from "./src/components/Cart.jsx";
 import {Provider} from "react-redux";
-import appStore from "./src/constants/appstore.jsx";
+import appStore from "./src/constants/appStore.jsx";
 
 
 let App=()=>{
