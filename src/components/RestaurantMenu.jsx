@@ -6,7 +6,7 @@ import { MdStars } from "react-icons/md";
 import { RiArrowDropUpLine } from "react-icons/ri";
 import { RiArrowDropDownLine } from "react-icons/ri";
 import BottomLine from "./BottomLine"
-import Playstore from "../image/Google_play.png"
+import Playstore from "../image/Google_Play.png"
 import Appstore from "../image/App_Store.png"
 
 const RestaurantMenu = () =>{
